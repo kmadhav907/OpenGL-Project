@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1618035688 source:/home/student/Desktop/proj/main.c
+	<GL/glut.h>
+	<string.h>
+
+1618034716 source:/run/user/1001/gvfs/sftp:host=172.16.2.3,user=4nm18cs088/home/4nm18cs088/CG/proj1/main.c
+	<GL/glut.h>
+	<string.h>
+
